@@ -11,7 +11,7 @@
  "field_order": [
   "content_section",
   "title",
-  "youtube_url",
+  "custom_youtube_url",
   "column_break_2",
   "route",
   "published",
@@ -99,7 +99,7 @@
    "label": "Keywords"
   },
   {
-    "fieldname": "youtube_url",
+    "fieldname": "custom_youtube_url",
     "fieldtype": "Long Text",
     "label": "Youtube URL"
    }
