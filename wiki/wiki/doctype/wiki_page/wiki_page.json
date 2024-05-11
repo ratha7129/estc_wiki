@@ -11,6 +11,7 @@
  "field_order": [
   "content_section",
   "title",
+  "youtube_url",
   "column_break_2",
   "route",
   "published",
@@ -96,7 +97,12 @@
    "fieldname": "meta_keywords",
    "fieldtype": "Small Text",
    "label": "Keywords"
-  }
+  },
+  {
+    "fieldname": "youtube_url",
+    "fieldtype": "Long Text",
+    "label": "Youtube URL"
+   }
  ],
  "has_web_view": 1,
  "index_web_pages_for_search": 1,
